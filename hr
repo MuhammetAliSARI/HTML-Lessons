@@ -1,0 +1,3 @@
+<!--hr-->
+    <h2 style="color:antiquewhite;background:red">hr etiketi</h2>
+    Ekrana yatay çizgi çizmek için kullanılır. Bu etiketinde br etiketi gibi sonlandırıcısı /hr yoktur.<hr>
